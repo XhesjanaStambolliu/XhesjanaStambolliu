@@ -11,14 +11,14 @@ Ambitious and detail-oriented, I strive to deliver **high-quality applications**
 ## 🛠️ Core Technologies  
 
 ### **Programming Languages**
-- C#  
-- JavaScript  
-- SQL  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="20" height="20"/> C#  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="20" height="20"/> JavaScript  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="20" height="20"/> SQL Server
 - JSON  
 
 ### **Frameworks & Libraries**
-- .NET Core  
-- .NET Framework  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core" width="20" height="20"/> .NET Core  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt=".NET Framework" width="20" height="20"/> .NET Framework  
 - ASP.NET MVC  
 - ASP.NET Web API  
 - Entity Framework  
@@ -30,9 +30,9 @@ Ambitious and detail-oriented, I strive to deliver **high-quality applications**
 - Microservices  
 
 ### **Web Technologies**
-- HTML  
-- CSS  
-- Bootstrap  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="20" height="20"/> HTML  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="20" height="20"/> CSS  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="20" height="20"/> Bootstrap  
 - AJAX  
 
 ### **APIs & Services**
@@ -41,13 +41,14 @@ Ambitious and detail-oriented, I strive to deliver **high-quality applications**
 - SSRS Server  
 
 ### **Tools & Platforms**
-- Azure  
-- Git  
-- Visual Studio 2022  
-- Postman  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="20" height="20"/> Azure  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="20" height="20"/> Git  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="20" height="20"/> Visual Studio 2022  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="20" height="20"/> Postman  
 - SoapUI  
-- SonarQube  
+- <img src="https://simpleicons.org/icons/sonarqube.svg" alt="SonarQube" width="30" height="30"/> SonarQube 
 
 ---
+
 
 Feel free to explore my projects on [My GitHub](https://github.com/xhesjana19).  
