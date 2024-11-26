@@ -46,7 +46,7 @@ Ambitious and detail-oriented, I strive to deliver **high-quality applications**
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="20" height="20"/> Visual Studio 2022  
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="20" height="20"/> Postman  
 - SoapUI  
-- <img src="https://simpleicons.org/icons/sonarqube.svg" alt="SonarQube" width="30" height="30"/> SonarQube 
+- <img src="https://simpleicons.org/icons/sonarqube.svg" alt="SonarQube" width="20" height="20"/> SonarQube 
 
 ---
 
