@@ -51,7 +51,7 @@ Ambitious and detail-oriented, I strive to deliver **high-quality applications**
 ### **Messaging & Queue Services**
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" alt="RabbitMQ" width="20" height="20"/> RabbitMQ  
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure Service Bus" width="20" height="20"/> Azure Service Bus  
-- <img src="https://simpleicons.org/icons/nginx.svg" alt="Gateway" width="20" height="20"/> Gateway
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt="Ocelot API Gateway" width="20" height="20"/> Ocelot API Gateway
 
 ---
 
