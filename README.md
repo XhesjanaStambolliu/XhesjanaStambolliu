@@ -56,4 +56,4 @@ Ambitious and detail-oriented, I strive to deliver **high-quality applications**
 ---
 
 
-Feel free to explore my projects on [My GitHub](https://github.com/XhesjanaStambolliu).  
+Feel free to explore my projects on [My Projects](https://github.com/XhesjanaStambolliu?tab=repositories).  
