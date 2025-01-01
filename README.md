@@ -3,7 +3,7 @@
 I am a **software developer** with **5 years of experience** in designing, building projects from scratch, and maintaining them effectively.  
 Ambitious and detail-oriented, I strive to deliver **high-quality applications** by leveraging modern technologies and best practices.  
 
-![Profile Visits](https://img.shields.io/badge/Profile%20Visits-6-blue?style=flat)
+![Profile Visits](https://visitor-badge.laobi.icu/badge?page_id=XhesjanaStambolliu)
 
 
 📫 **Contact Me**: [xhesjana.stambolliu@gmail.com](mailto:xhesjana.stambolliu@gmail.com)  
