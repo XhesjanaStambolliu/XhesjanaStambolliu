@@ -1,4 +1,4 @@
-# Hi 👋, I'm Xhesjana (Jessiana)  
+# Hi 👋, I'm Xhesjana (Jessyana/Jessi)
 
 I am a **software developer** with **5 years of experience** in designing, building projects from scratch, and maintaining them effectively.  
 Ambitious and detail-oriented, I strive to deliver **high-quality applications** by leveraging modern technologies and best practices.  
