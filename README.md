@@ -1,6 +1,6 @@
 # Hi 👋, I'm Xhesjana (Jessyana/Jessi)
 
-I am a **software developer** with **5 years of experience** in designing, building projects from scratch, and maintaining them effectively.  
+I am a **software developer** with over **5+ years of experience** in designing, building projects from scratch, and maintaining them effectively.  
 Ambitious and detail-oriented, I strive to deliver **high-quality applications** by leveraging modern technologies and best practices.  
 
 ![Profile Visits](https://komarev.com/ghpvc/?username=XhesjanaStambolliu&label=Profile%20Views&color=0e75b6&style=flat)
