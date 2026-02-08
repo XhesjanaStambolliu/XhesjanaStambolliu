@@ -1,6 +1,6 @@
-# Hi 👋, I'm Xhesjana (Jessyana/Jessi)
+# Hi 👋, I'm Xhesjana (pronounced Jess-yana)
 
-I am a **software developer** with over **5+ years of experience** in designing, building projects from scratch, and maintaining them effectively.  
+I am a **software developer** with over **6+ years of experience** in designing, building projects from scratch, and maintaining them effectively.  
 Ambitious and detail-oriented, I strive to deliver **high-quality applications** by leveraging modern technologies and best practices.  
 
 ![Profile Visits](https://komarev.com/ghpvc/?username=XhesjanaStambolliu&label=Profile%20Views&color=0e75b6&style=flat)
@@ -13,48 +13,59 @@ Ambitious and detail-oriented, I strive to deliver **high-quality applications**
 
 ## 🛠️ Core Technologies  
 
-### **Programming Languages**
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="20" height="20"/> C#  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="20" height="20"/> JavaScript  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="20" height="20"/> SQL Server
+### Programming Languages
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="20"/> C#
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20"/> JavaScript
 - JSON  
 
-### **Frameworks & Libraries**
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core" width="20" height="20"/> .NET Core  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt=".NET Framework" width="20" height="20"/> .NET Framework  
-- ASP.NET MVC  
-- ASP.NET Web API  
-- Entity Framework  
-- NHibernate  
+### Frameworks & Backend Technologies
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="20"/> .NET Core
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="20"/> .NET Framework
+- ASP.NET MVC
+- ASP.NET Web API
+- Entity Framework
+- NHibernate
+- gRPC  
 
-### **Architectural Patterns**
-- Clean Architecture  
-- Mediator Pattern  
+### Architecture & Design
+- Clean Architecture
+- CQRS (Command Query Responsibility Segregation)
+- Mediator Pattern
 - Microservices  
 
-### **Web Technologies**
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="20" height="20"/> HTML  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="20" height="20"/> CSS  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="20" height="20"/> Bootstrap  
+### Databases
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="20"/> SQL Server
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="20"/> PostgreSQL
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="20"/> MongoDB  
+
+### Web Technologies
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20"/> HTML
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20"/> CSS
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="20"/> Bootstrap
 - AJAX  
 
-### **APIs & Services**
-- RESTful APIs  
-- WCF Web Services  
-- SSRS Server  
+### APIs & Integration
+- RESTful APIs
+- gRPC
+- WCF Web Services
+- SSRS  
 
-### **Tools & Platforms**
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="20" height="20"/> Azure  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="20" height="20"/> Git  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="20" height="20"/> Visual Studio 2022  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="20" height="20"/> Postman  
-- SoapUI  
-- <img src="https://simpleicons.org/icons/sonarqube.svg" alt="SonarQube" width="20" height="20"/> SonarQube 
+### DevOps & Cloud
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="20"/> Docker
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="20"/> Kubernetes
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="20"/> Azure  
 
-### **Messaging & Queue Services**
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" alt="RabbitMQ" width="20" height="20"/> RabbitMQ  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure Service Bus" width="20" height="20"/> Azure Service Bus  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt="Ocelot API Gateway" width="20" height="20"/> Ocelot API Gateway
+### Tools
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20"/> Git
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="20"/> Visual Studio 2022
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="20"/> Postman
+- SoapUI
+- SonarQube  
+
+### Messaging & API Gateway
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="20"/> RabbitMQ
+- Azure Service Bus
+- Ocelot API Gateway
 
 ---
 
